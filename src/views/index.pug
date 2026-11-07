@@ -58,59 +58,47 @@ head
     span.offerDesc Przypinki z dwoma duetami
     a.checkBtn(href='/offer') Zobacz więcej
 .charPreview
-  .container.position-relative
-    h2.text-center.mb-5 Poznaj bohater&oacute;w moich ksi&aogon;&zdot;ek
-    // Główny kontener karuzeli
-    #characterCarousel.carousel.slide(data-bs-ride='carousel')
-      .carousel-inner
-        // POSTAĆ 1 (aktywna na start)
-        .carousel-item.active
-          .row.align-items-center
-            .col-md-5.d-flex.justify-content-center
-              // Zmienione na img, żeby móc podać ścieżkę do zdjęcia
-              img.charPrevImg(src='/img/candy.jpg' alt='Candy Shelton')
-            .col-md-7.d-flex.flex-column.align-items-center
-              .charBox.text-center
-                h4.charHeader.fw-bold.mb-1 Candy Shelton
-                // Nowy podtytuł z rolą postaci
-                h6.accent.mb-3.text-uppercase.fw-bold Nowa stażystka w oddziale 20.
-                p.charDescription.mt-3
-                  | Zawsze pogodna i pełna motywacji do nauki na temat innych kultur oraz planet. Trafia do oddziału, gdy przypadkiem odkrywa w sobie ponadprzeciętne moce, które musi nauczyć się kontrolować.
-        // POSTAĆ 2
-        .carousel-item
-          .row.align-items-center
-            .col-md-5.d-flex.justify-content-center
-              img.charPrevImg(src='/img/calvin.jpg' alt='Calvin Carpenter')
-            .col-md-7.d-flex.flex-column.align-items-center
-              .charBox.text-center
-                h4.charHeader.fw-bold.mb-1 Calvin Carpenter
-                h6.accent.mb-3.text-uppercase.fw-bold Szef oddziału 20.
-                p.charDescription.mt-3 Zawsze poważny i zdystansowany, dzięki niemu zawsze wszystko jest dopięte na ostatni guzik. Mimo to dba również o swoich podwładnych i w razie niebezpieczeństwa zrobi wszystko, żeby ich chronić.
-        .carousel-item
-          .row.align-items-center
-            .col-md-5.d-flex.justify-content-center
-              img.charPrevImg(src='/img/jackson.jpg' alt='Jackson Taylor')
-            .col-md-7.d-flex.flex-column.align-items-center
-              .charBox.text-center
-                h4.charHeader.fw-bold.mb-1 Jackson Taylor
-                h6.accent.mb-3.text-uppercase.fw-bold Zastępca szefa oddziału 20.
-                p.charDescription.mt-3 Zawsze ma jakąś ciekawostkę na temat wszechświata. Ze wszystkich planet jednak najbardziej fascynuje go Ziemia i uważa ludzkość za najbardziej interesującą cywilizację.
-        .carousel-item
-          .row.align-items-center
-            .col-md-5.d-flex.justify-content-center
-              img.charPrevImg(src='/img/jenny.jpg' alt='Jenny Murray')
-            .col-md-7.d-flex.flex-column.align-items-center
-              .charBox.text-center
-                h4.charHeader.fw-bold.mb-1 Jenny Murray
-                h6.accent.mb-3.text-uppercase.fw-bold Agentka specjalna oddziału 20.
-                p.charDescription.mt-3 Kiedyś była szefowa oddziału 20, teraz bierze udział tylko w najpoważniejszych misjach. Mało kto może się z nią równać i ona też dobrze o tym wie.
-      // Przyciski nawigacji (Lewo / Prawo)
-      button.carousel-control-prev(type='button' data-bs-target='#characterCarousel' data-bs-slide='prev')
-        span.carousel-control-prev-icon(aria-hidden='true')
-        span.visually-hidden Poprzedni
-      button.carousel-control-next(type='button' data-bs-target='#characterCarousel' data-bs-slide='next')
-        span.carousel-control-next-icon(aria-hidden='true')
-        span.visually-hidden Nast&eogon;pny
+    .container.position-relative
+        h2.text-center.mb-5 Poznaj bohaterów moich książek
+        
+        if characters.length > 0
+            #characterCarousel.carousel.slide(data-bs-ride="carousel")
+                .carousel-inner
+                    
+                    each char, index in characters
+                        
+                        if index === 0
+                            .carousel-item.active
+                                .row.align-items-center
+                                    .col-md-5.d-flex.justify-content-center
+                                        img.charPrevImg(src=char.img alt=char.name)
+                                    .col-md-7.d-flex.flex-column.align-items-center
+                                        .charBox.text-center
+                                            h4.charHeader.fw-bold.mb-1= char.name
+                                            h6.accent.mb-3.text-uppercase.fw-bold= char.role
+                                            p.charDescription.mt-3= char.desc
+                        else
+                            .carousel-item
+                                .row.align-items-center
+                                    .col-md-5.d-flex.justify-content-center
+                                        img.charPrevImg(src=char.img alt=char.name)
+                                    .col-md-7.d-flex.flex-column.align-items-center
+                                        .charBox.text-center
+                                            h4.charHeader.fw-bold.mb-1= char.name
+                                            h6.accent.mb-3.text-uppercase.fw-bold= char.role
+                                            p.charDescription.mt-3= char.desc
+
+                //- Przyciski nawigacji (strzałki)
+                button.carousel-control-prev(type="button" data-bs-target="#characterCarousel" data-bs-slide="prev")
+                    span.carousel-control-prev-icon(aria-hidden="true")
+                    span.visually-hidden Poprzedni
+                button.carousel-control-next(type="button" data-bs-target="#characterCarousel" data-bs-slide="next")
+                    span.carousel-control-next-icon(aria-hidden="true")
+                    span.visually-hidden Następny
+                    
+        //- Blok ELSE dla pierwszego IF-a (jeśli tablica będzie pusta)
+        else
+            .alert.alert-warning.text-center Brak wprowadzonych postaci.
 .faq
   img.faqImg(src='./img/faq_img.jpg' alt='FAQ Image')
   .faqBox
