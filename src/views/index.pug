@@ -88,7 +88,6 @@ head
                                             h6.accent.mb-3.text-uppercase.fw-bold= char.role
                                             p.charDescription.mt-3= char.desc
 
-                //- Przyciski nawigacji (strzałki)
                 button.carousel-control-prev(type="button" data-bs-target="#characterCarousel" data-bs-slide="prev")
                     span.carousel-control-prev-icon(aria-hidden="true")
                     span.visually-hidden Poprzedni
@@ -96,16 +95,13 @@ head
                     span.carousel-control-next-icon(aria-hidden="true")
                     span.visually-hidden Następny
                     
-        //- Blok ELSE dla pierwszego IF-a (jeśli tablica będzie pusta)
         else
             .alert.alert-warning.text-center Brak wprowadzonych postaci.
 .faq
   img.faqImg(src='./img/faq_img.jpg' alt='FAQ Image')
   .faqBox
     h2.faqHeader Cz&eogon;sto zadawane pytania
-    // Początek Akordeonu Bootstrap
     #faqAccordion.accordion.mt-4
-      // Pytanie 1 (domyślnie rozwinięte: klasa 'show' i 'aria-expanded="true"')
       .accordion-item
         h2.accordion-header
           button.accordion-button(type='button' data-bs-toggle='collapse' data-bs-target='#faq1' aria-expanded='true')
@@ -113,7 +109,6 @@ head
         #faq1.accordion-collapse.collapse.show(data-bs-parent='#faqAccordion')
           .accordion-body
             | Główna seria będzie posiadać cztery tomy. Być może pojawią się jeszcze dodatkowe tomy z tego uniwersum, jednak nie będą się już skupiać bezpośrednio wokół głównej czwórki.
-      // Pytanie 2 (zwinięte)
       .accordion-item
         h2.accordion-header
           button.accordion-button.collapsed(type='button' data-bs-toggle='collapse' data-bs-target='#faq2' aria-expanded='false')
@@ -128,7 +123,6 @@ head
         #faq3.accordion-collapse.collapse(data-bs-parent='#faqAccordion')
           .accordion-body
             | Ilustracje są mojego autorstwa, rysowane metodą tradycyjną ołówkiem na papierze bez przeróbki żadnych narzędzi AI.
-    // Koniec Akordeonu
 footer.footer
   img(src='./img/ytIcon-small.png' alt='YT')
   span.footerTxt dodo.neko
@@ -136,6 +130,5 @@ footer.footer
   span.footerTxt dodoneko.kontakt@gmail.com
   img(src='./img/igIcon-small.png' alt='IG')
   span.footerTxt dodo.neko
-// JS plik (opcjonalny, z nawigacją poradzi sobie HTML)
 script(src='./js/index.js')
 script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js')
