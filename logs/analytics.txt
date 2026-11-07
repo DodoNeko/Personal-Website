@@ -1,0 +1,81 @@
+[6.11.2026, 18:12:33] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:12:45] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinka-oddzial
+[6.11.2026, 18:13:03] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:13:10] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:13:14] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:13:15] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:13:17] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:13:18] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:13:39] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:13:41] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: Przypinki
+[6.11.2026, 18:13:56] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinka-oddzial
+[6.11.2026, 18:13:57] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:23:12] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:23:14] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:23:32] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:23:34] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 18:23:38] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:23:39] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinka-oddzial
+[6.11.2026, 18:24:08] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:24:13] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:24:14] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:24:39] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:24:40] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:52:55] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:56:43] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:56:44] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-2
+[6.11.2026, 18:57:23] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 18:57:29] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:03:58] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:18:07] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:26:53] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:27:00] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:27:23] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:27:29] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:27:36] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-chibi
+[6.11.2026, 19:27:54] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-chibi
+[6.11.2026, 19:28:00] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-chibi
+[6.11.2026, 19:28:04] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:28:09] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 19:45:29] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:45:56] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-chibi
+[6.11.2026, 19:45:58] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:46:00] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-duet
+[6.11.2026, 19:46:03] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-oddzial
+[6.11.2026, 19:46:42] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-oddzial
+[6.11.2026, 19:46:43] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:46:51] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: naklejki-oddzial
+[6.11.2026, 19:46:54] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-oddzial
+[6.11.2026, 19:47:02] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 19:47:03] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:47:07] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: naklejki-oddzial
+[6.11.2026, 19:47:08] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:47:10] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 19:47:13] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:48:34] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:48:35] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 19:48:55] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:48:59] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: Książka
+[6.11.2026, 19:49:01] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: Przypinki
+[6.11.2026, 19:49:02] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: Naklejki
+[6.11.2026, 19:49:04] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: Przypinki
+[6.11.2026, 19:49:06] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:49:10] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:49:11] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:49:14] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:49:17] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:49:20] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:50:17] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:51:20] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:51:40] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:52:24] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:53:19] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:53:29] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:53:50] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:53:51] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: oddzial-20-tom-1
+[6.11.2026, 19:54:01] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 19:54:24] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 20:19:24] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 20:21:19] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 20:21:37] IP: ::ffff:127.0.0.1 | Akcja: Przeglądanie listy - Kategoria: all
+[6.11.2026, 20:21:39] IP: ::ffff:127.0.0.1 | Akcja: Szczegóły elementu: przypinki-chibi
